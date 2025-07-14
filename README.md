@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Your Name]
+# 👋 Hi there, I'm Wil
 
 I'm a full-stack software engineer with experience building reliable, scalable applications across the stack — from designing backend APIs to crafting responsive UIs. I currently work at Spectrum, where I maintain and enhance large-scale financial systems used for revenue tracking, journal entry workflows, and accounting automation.
 
